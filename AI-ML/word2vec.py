@@ -1,4 +1,4 @@
-#find closest word from a list against a given word using word2vec and  euclidean distance
+#find closest word from a list against a given word using word2vec and euclidean distance
 import tensorflow as tf
 import numpy as np
 from sklearn.manifold import TSNE
